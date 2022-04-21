@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  padding: 1%;
+  width: 80%;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.success {
+  color: #299154;
+  display: inline-block;
+}
+
+.error {
+  color: #bf3922;
+  display: inline-block;
+}
+
+.tbl-full {
+  width: 100%;
+}
+
+.tbl-30 {
+  width: 30%;
+}
+
+.tbl-40 {
+  width: 40%;
+}
+
+table tr th {
+  border-bottom: 1px solid black;
+  padding: 1%;
+  text-align: left;
+}
+
+table tr td {
+  padding: 1%;
+}
+
+.btn-primary {
+  background-color: #1e90ff;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: 2%;
+  display: inline-block;
+}
+
+.btn-primary:hover {
+  background-color: #1e74ff;
+}
+
+.btn-secondary {
+  background-color: #7bed9f;
+  padding: 1%;
+  color: #313131;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.btn-secondary:hover {
+  background-color: #55b975;
+}
+
+.btn-danger {
+  background-color: #ec7658;
+  padding: 1%;
+  color: #313131;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.btn-danger:hover {
+  background-color: #c8573a;
+}
+
+.submit-data {
+  text-align: right;
+  padding: 1% 0;
+}
+
+input {
+  width: 100%;
+}
+
+.submit-data input {
+  width: 50%;
+  height: 2rem;
+  border: none;
+  padding: 2%;
+}
+
+/* CSS for menu*/
+
+.menu {
+  border-bottom: 1px solid gray;
+}
+
+.menu ul {
+  list-style-type: none;
+}
+
+.menu ul li {
+  display: inline;
+  padding: 1%;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #ff6b81;
+}
+
+.menu ul li a:hover {
+  color: #ff4757;
+}
+
+/* CSS for main content */
+
+.main-content {
+  background-color: #ececec;
+  padding: 3% 0;
+}
+
+h1 {
+  margin-bottom: 3%;
+}
+
+.col-4 {
+  width: 18%;
+  background-color: white;
+  margin: 1%;
+  padding: 2%;
+  display: inline-block;
+}
+
+/* CSS for footer */
+
+.footer {
+  background-color: #ff6b81;
+  color: white;
+}
+
+/* LOGIN */
+
+.login {
+  border: 1px solid grey;
+  width: 30%;
+  margin: 15% auto;
+  text-align: center;
+}
