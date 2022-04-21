@@ -19,7 +19,7 @@
 <!-- footer Section Starts Here -->
 <section class="footer">
     <div class="container text-center">
-        <p>All rights reserved. Designed By <a href="#">ArielCorte</a></p>
+        <p>All rights reserved. Designed By <a href="https://github.com/ArielCorte" target="_blank">ArielCorte</a></p>
     </div>
 </section>
 <!-- footer Section Ends Here -->
